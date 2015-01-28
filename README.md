@@ -1,2 +1,2 @@
 # CodeIgniter-Login-System
-Simple yet secure CodeIgniter system.
+Simple CodeIgniter login system that practices secure database queries.
