@@ -3,6 +3,8 @@ Simple CodeIgniter login system that practices secure database queries, XSS filt
 
 This is a great login system that people can build on from for their projects.
 
+UNFINISHED
+
 Pages/functions:
 - Login
 - Registration
